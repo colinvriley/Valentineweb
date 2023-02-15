@@ -1,0 +1,16 @@
+body {
+ background: linear-gradient(45deg, rgb(255, 255, 255), rgba(255, 44, 255, 0.616));
+margin-left:
+margin-right: 
+width:39%;
+margin:25%
+}
+
+h1   {
+    font-family: 'Inconsolata', monospace;
+color:rgb(0, 38, 255);
+}
+
+.shadow  {
+    color:rgb(252, 0, 239);
+}
